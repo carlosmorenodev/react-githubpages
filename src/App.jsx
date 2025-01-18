@@ -9,6 +9,7 @@ function App() {
   return (
     <>
       <h1>Prueba</h1>
+      <h2>Esto es una prueba</h2>
     </>
   )
 }
